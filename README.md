@@ -110,12 +110,6 @@ npm run build
 npm run preview
 ```
 
-### 린팅
-
-```bash
-npm run lint
-```
-
 ## 📁 프로젝트 구조
 
 ```
@@ -207,14 +201,6 @@ src/
 - 노선 색상: `src/data/subwayLines.ts`
 - UI 컴포넌트: `src/Components/` 내 각 파일
 
-## 🤝 기여하기
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다.
@@ -223,12 +209,8 @@ src/
 
 Recruitment Task Project
 
-## 🙏 감사의 말
+## 참고
 
 - [Leaflet](https://leafletjs.com/) - 오픈소스 지도 라이브러리
 - [Ant Design](https://ant.design/) - React UI 프레임워크
 - [React](https://react.dev/) - UI 라이브러리
-
----
-
-**Happy Coding! 🚀**
