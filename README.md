@@ -1,9 +1,7 @@
 # 🚇 OpenSG Metro City
 
-React + TypeScript + Leaflet 기반의 인터랙티브 지하철 노선도 애플리케이션
-
 ![지하철 노선도](https://github.com/user-attachments/assets/eda60ebe-e6a5-4a84-a97e-e6874acaab4e)
-
+React + TypeScript + Leaflet 기반의 인터랙티브 지하철 노선도 애플리케이션
 
 ## 📋 목차
 
