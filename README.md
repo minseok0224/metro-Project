@@ -2,7 +2,8 @@
 
 React + TypeScript + Leaflet 기반의 인터랙티브 지하철 노선도 애플리케이션
 
-![지하철노선도](https://github.com/user-attachments/assets/a7da7e85-7177-4c5a-bc2a-6e5bd55f253d)
+![지하철 노선도](https://github.com/user-attachments/assets/eda60ebe-e6a5-4a84-a97e-e6874acaab4e)
+
 
 ## 📋 목차
 
